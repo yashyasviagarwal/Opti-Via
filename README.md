@@ -8,12 +8,24 @@ then it plots the waypoints on google maps.
 It also has a SOS feature added which sends an sms alert to the Emergency Services.
 
 
-#DEMO
+# App Demo
+
+
+
+
 ![Application Demo](demo/appdemo.gif)
 
+
+
+
+# SOS Demo
 ![SOS Demo](demo/sosdemo.gif)
 
-Tech Stack:
+
+
+
+
+## Tech Stack:
 1. ANDROID APPLICATION (JAVA)
 2. NODEJS
 3. PYTHON3
