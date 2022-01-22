@@ -21,7 +21,7 @@
     "fetch": "^1.1.0",
     "geocoder": "^0.2.3",
     "ngrok": "^3.2.7",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "prettier": "^1.19.1",
     "python-shell": "^1.0.8"
   },
